@@ -1,0 +1,58 @@
+*/quadro 1*/
+header {S
+    display:block;
+    margin-bottom: 1px;
+    }
+    nav {
+    display:block;
+    width: 20%;
+    float: left;
+    margin-right: 10px;
+    font-family: stoke, Lucida Bright, liberation;
+    }
+    section {
+    display:block;
+    width: 70%;
+    float: right;
+    }
+
+   */quadro 2*/
+    body {
+    background-color: #DDCC55;
+    color: #000000;
+    font-size: 16px;
+    font-family: stoke, Lucida Bright, liberation;
+    }
+
+    a:link { color:#222222; text-decoration:none; }
+    a:visited { color:#222222; text-decoration:none; }
+
+    ol { line-height: 200%; }
+    ul { line-height: 200%; }
+    
+    .ender {
+    float: right;
+    text-align: right;
+    line-height: 140%;
+    font-size: 14px;
+    font-family: karla, verdana, ubuntu;
+    }
+
+    img.imgLogo {
+    color:#222222
+    padding-bottom: 15px;
+    border-bottom: 3px solid;
+    margin-bottom: 6px;
+    }
+
+    div.apres {
+    text-align: center;
+    font-size: 16px;
+    }
+
+    nav ul {
+    color: #000000;
+    margin-top: 40px;
+    line-height: 230%;
+    list-style-type: square;
+    }
